@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            SFicheu
 tagline:          'SFicheu'
-description:      'Dev Log'
+description:      'SFicheu&apos;s Dev Story'
 url:              https://sunyoungs.github.io/
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'SFicheu'
-  url:            https://twitter.com/fongandrewc
+  url:            https://www.linkedin.com/in/%EC%84%A0%EC%98%81-%ED%99%A9-994792323/
 
 paginate:         5
 # paginate_path:    '/page:num'
