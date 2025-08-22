@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Story
-tagline:          'SFicheu'
+title:            SFicheu
+tagline:          'Log'
 description:      'SFicheu&apos;s Dev Story'
 url:              https://sunyoungs.github.io/
 baseurl:          '/'
